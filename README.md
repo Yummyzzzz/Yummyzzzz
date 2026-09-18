@@ -50,19 +50,13 @@
 <h3>🚀 Current Focus</h3>
 
 <p>
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
-    alt="C++"
-  />
-  <img
-    src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-    alt="Rust"
-  />
-</p>
 
-<p>
-  Focusing on systems programming, low-level development, performance,
-  and building solid foundations for <strong>CoreFramework</strong> and <strong>CoreView</strong>.
+  text 
+  Systems Programming 
+  ├── C++ ████████████████████ 
+  ├── Rust ████████████████████ 
+  └── Low-Level Development
+  
 </p>
 
 <h3>🛠️ Languages &amp; Tools</h3>
