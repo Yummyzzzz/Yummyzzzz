@@ -1,90 +1,123 @@
 <div align="center">
 
-# 👋 Hey, I'm Yummyzzzz
+<h1>👋 Hey, I'm Yummyzzzz</h1>
 
-### Systems Developer · Low-Level C++ · Rust 🦀
+<p>
+  <strong>Systems Developer</strong> · <strong>Low-Level C++</strong> · <strong>Rust</strong> 🦀
+</p>
 
-<a href="https://github.com/yummyzzzz">
-  <img src="https://img.shields.io/github/followers/yummyzzzz?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers" />
-</a>
-<a href="https://github.com/yummyzzzz">
-  <img src="https://img.shields.io/github/stars/yummyzzzz?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=yummyzzzz&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-* 🔭 Currently working on **CoreFramework**
-* 🤝 Looking to collaborate on **CoreView** and **CoreFramework**
-* 💬 Ask me about **low-level systems, C++, Rust, and systems programming**
-* 📫 Reach me on **Discord: Yummyzzzz**
-
-## 🚀 Current Focus
-
-```text
-Systems Programming
-├── C++      ████████████████████
-├── Rust     ████████████████████
-└── Low-Level Development
-```
-
-## 🛠️ Languages & Tools
-
-<p align="left">
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+<p>
+  <a href="https://github.com/yummyzzzz">
+    <img
+      src="https://img.shields.io/github/followers/yummyzzzz?style=for-the-badge&logo=github&label=Followers"
+      alt="GitHub Followers"
+    />
   </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <a href="https://github.com/yummyzzzz">
+    <img
+      src="https://img.shields.io/github/stars/yummyzzzz?style=for-the-badge&logo=github&label=Stars"
+      alt="GitHub Stars"
+    />
   </a>
 </p>
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/yummyzzzz">
+<p>
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yummyzzzz&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
+    src="https://komarev.com/ghpvc/?username=yummyzzzz&label=Profile%20Views&color=5865F2&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
+</div>
+
+<p align="center">
+  <strong>Building low-level software, systems, and developer tools with C++ and Rust.</strong>
+</p>
+
+<br>
+
+<div>
+
+<h3>👨‍💻 About Me</h3>
+
+<p>
+  🔭 Currently working on <strong>CoreFramework</strong><br>
+  🤝 Looking to collaborate on <strong>CoreView</strong> and <strong>CoreFramework</strong><br>
+  💬 Ask me about <strong>low-level systems, C++, Rust, and systems programming</strong><br>
+  📫 Reach me on <strong>Discord: Yummyzzzz</strong>
+</p>
+
+<h3>🚀 Current Focus</h3>
+
+<p>
+  <img
+    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+    alt="C++"
+  />
+  <img
+    src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+    alt="Rust"
+  />
+</p>
+
+<p>
+  Focusing on systems programming, low-level development, performance,
+  and building solid foundations for <strong>CoreFramework</strong> and <strong>CoreView</strong>.
+</p>
+
+<h3>🛠️ Languages &amp; Tools</h3>
+
+<p>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
+      alt="C++"
+    />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
+      alt="Rust"
+    />
+  </a>
+</p>
+
+<h3>📊 GitHub Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=yummyzzzz&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent"
     alt="Yummyzzzz's GitHub Stats"
     width="49%"
   />
-</a>
-
-<a href="https://github.com/yummyzzzz">
   <img
     src="https://streak-stats.demolab.com/?user=yummyzzzz&hide_border=true&theme=transparent"
     alt="Yummyzzzz's GitHub Streak"
     width="49%"
   />
-</a>
+</p>
 
-<br><br>
-
-<a href="https://github.com/yummyzzzz">
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yummyzzzz&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=yummyzzzz&layout=compact&langs_count=8&hide_border=true&theme=transparent"
     alt="Yummyzzzz's Top Languages"
     width="42%"
   />
-</a>
+</p>
+
+<h3>🔗 Let's Connect</h3>
+
+<p>
+  <a href="https://github.com/yummyzzzz" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/GitHub-yummyzzzz-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+  <img
+    src="https://img.shields.io/badge/Discord-Yummyzzzz-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    alt="Discord: Yummyzzzz"
+  />
+</p>
 
 </div>
-
----
-
-## 🔗 Let's Connect
-
-<p align="left">
-  <a href="https://github.com/yummyzzzz">
-    <img src="https://img.shields.io/badge/GitHub-yummyzzzz-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Discord-Yummyzzzz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: Yummyzzzz" />
-</p>
