@@ -1,27 +1,51 @@
-<h1 align="center">Hello, I'm Yummyzzzz</h1>
-<h3 align="center">A Developer, that specializes in Low-level C++ and Rust.</h3>
+<div align="center">
+  <h1>👋 Hello, I'm Yummyzzzz</h1>
+  <h3>Systems Developer specializing in Low-Level C++ and Rust 🦀</h3>
+  <img src="https://komarev.com/ghpvc/?username=yummyzzzz&label=Profile%20Views&color=5865F2&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yummyzzzz&label=Profile%20views&color=0e75b6&style=flat" alt="yummyzzzz" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yummyzzzz" alt="yummyzzzz" /></a> </p>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yummyzzzz&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-- I’m currently working on **CoreFramework**
+<br/>
 
-- I’m looking to collaborate on **CoreView or CoreFramework**
+### 👨‍💻 About Me
+- 🔭 I’m currently working on **CoreFramework**
+- 🤝 I’m looking to collaborate on **CoreView** or **CoreFramework**
+- 💬 Ask me about **low-level systems, C++, and Rust**
+- 📫 How to reach me: **Discord (Yummyzzzz)**
 
-- How to reach me **Discord (Yummyzzzz)**
-
-<h3 align="left">Connect with me:</h3>
+### 👾 Let's Connect
 <p align="left">
-<a href="https://www.youtube.com/c/yummyzzzz13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yummyzzzz13" height="30" width="40" /></a>
+  <a href="https://discord.com/users/Yummyzzzz" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Yummyzzzz-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
+### 🛠️ Languages & Tools
+<p align="left">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="45" height="45"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yummyzzzz&show_icons=true&locale=en&layout=compact" alt="yummyzzzz" /></p>
+### 📊 GitHub Activity
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yummyzzzz&show_icons=true&locale=en" alt="yummyzzzz" /></p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yummyzzzz&show_icons=true&locale=en&hide_border=true&theme=transparent" alt="GitHub Stats" width="48%" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yummyzzzz&hide_border=true&theme=transparent" alt="Streak Stats" width="48%" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yummyzzzz&" alt="yummyzzzz" /></p>
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yummyzzzz&show_icons=true&locale=en&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
+</div>
