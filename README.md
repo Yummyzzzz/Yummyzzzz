@@ -3,7 +3,7 @@
 <h1>👋 Hey, I'm Yummyzzzz</h1>
 
 <p>
-  <strong>Systems Developer</strong> · <strong>Low-Level C++</strong> · <strong>Rust</strong> 🦀
+  <strong>Systems Developer</strong> · <strong>Low-Level C++</strong> · <strong>C++</strong> 💙
 </p>
 
 <p>
@@ -31,7 +31,7 @@
 </div>
 
 <p align="center">
-  <strong>Building low-level software, systems, and developer tools with C++ and Rust.</strong>
+  <strong>Building low-level software, systems, and developer tools with C++</strong>
 </p>
 
 <br>
@@ -43,7 +43,7 @@
 <p>
   🔭 Currently working on <strong>CoreFramework</strong><br>
   🤝 Looking to collaborate on <strong>CoreView</strong> and <strong>CoreFramework</strong><br>
-  💬 Ask me about <strong>low-level systems, C++, Rust, and systems programming</strong><br>
+  💬 Ask me about <strong>low-level systems, C++ and systems programming</strong><br>
   📫 Reach me on <strong>Discord: Yummyzzzz</strong>
 </p>
 
@@ -78,13 +78,6 @@
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
       alt="C++"
     />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"
-      alt="Rust"
-    />
-  </a>
 </p>
 
 <h3>📊 GitHub Activity</h3>
