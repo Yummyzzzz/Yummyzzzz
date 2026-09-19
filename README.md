@@ -58,10 +58,6 @@
     src="https://img.shields.io/badge/C%2B%2B-Low--Level%20Development-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
     alt="C++ Low-Level Development"
   />
-  <img
-    src="https://img.shields.io/badge/Rust-Systems%20Programming-000000?style=for-the-badge&logo=rust&logoColor=white"
-    alt="Rust Systems Programming"
-  />
 </p>
 
 <p>
