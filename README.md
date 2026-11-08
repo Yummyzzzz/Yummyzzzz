@@ -1,9 +1,9 @@
 <div align="center">
 
-<h1>👋 Hey, I'm Yummyzzzz</h1>
+<h1>Yummyzzzz</h1>
 
 <p>
-  <strong>Systems Developer</strong> · <strong>Low-Level C++</strong> · <strong>C++</strong> 💙
+  <strong>Systems Developer</strong> | <strong>Low-Level C++</strong>
 </p>
 
 <p>
@@ -31,23 +31,33 @@
 </div>
 
 <p align="center">
-  <strong>Building low-level software, systems, and developer tools with C++</strong>
+  <strong>Building low-level software, systems, and developer tools with C++.</strong>
 </p>
 
 <br>
 
 <div>
 
-<h3>👨‍💻 About Me</h3>
+<h3>About Me</h3>
 
 <p>
-  🔭 Currently working on <strong>CoreFramework</strong><br>
-  🤝 Looking to collaborate on <strong>CoreView</strong> and <strong>CoreFramework</strong><br>
-  💬 Ask me about <strong>low-level systems, C++ and systems programming</strong><br>
-  📫 Reach me on <strong>Discord: Yummyzzzz</strong>
+  I am a systems developer focused on low-level software, systems programming, and developer tooling in C++.
+  My work centers on performance, clean architecture, and reliable systems design.
 </p>
 
-<h3>🚀 Current Focus</h3>
+<p>
+  Member of <strong>Raydon</strong>, an independent developer team. Raydon is a team name only and is not a
+  registered company or separate legal entity.
+</p>
+
+<p>
+  Currently working on <strong>CoreFramework</strong><br>
+  Open to collaboration on <strong>CoreView</strong> and <strong>CoreFramework</strong><br>
+  Available for questions on <strong>low-level systems, C++, and systems programming</strong><br>
+  Contact via <strong>Discord: Yummyzzzz</strong>
+</p>
+
+<h3>Current Focus</h3>
 
 <p>
   <strong>Systems Programming</strong>
@@ -61,12 +71,12 @@
 </p>
 
 <p>
-  ⚙️ Building low-level software and developer tools<br>
-  🚀 Focusing on performance, architecture, and systems development<br>
-  🧩 Working on <strong>CoreFramework</strong> and <strong>CoreView</strong>
+  Building low-level software and developer tools with an emphasis on performance,
+  architecture, and long-term maintainability. Currently active in
+  <strong>CoreFramework</strong> and <strong>CoreView</strong>.
 </p>
 
-<h3>🛠️ Languages &amp; Tools</h3>
+<h3>Languages and Tools</h3>
 
 <p>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
@@ -74,9 +84,10 @@
       src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"
       alt="C++"
     />
+  </a>
 </p>
 
-<h3>📊 GitHub Activity</h3>
+<h3>GitHub Activity</h3>
 
 <p align="center">
   <img
@@ -99,7 +110,7 @@
   />
 </p>
 
-<h3>🔗 Let's Connect</h3>
+<h3>Contact</h3>
 
 <p>
   <a href="https://github.com/yummyzzzz" target="_blank" rel="noreferrer">
