@@ -51,8 +51,8 @@
 </p>
 
 <p>
-  Currently working on <strong>CoreFramework</strong><br>
-  Open to collaboration on <strong>CoreView</strong> and <strong>CoreFramework</strong><br>
+  Currently working on <strong>Arctix</strong><br>
+  Open to collaboration on <strong>Arctix</strong><br>
   Available for questions on <strong>low-level systems, C++, and systems programming</strong><br>
   Contact via <strong>Discord: Yummyzzzz</strong>
 </p>
