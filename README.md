@@ -46,7 +46,7 @@
 </p>
 
 <p>
-  Member of <strong>Raydon</strong>, an independent developer team. Raydon is a team name only and is not a
+  Member of <strong>Whitepoint Software Development</strong>, an independent developer team. Whitepoint Software Development is a team name only and is not a
   registered company or separate legal entity.
 </p>
 
